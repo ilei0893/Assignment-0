@@ -31,4 +31,4 @@ describe("the countOfAllBooleans(arr) function", function() {
     expect(sampleInputArr).to.eql([10,20,30,40]);
   })
 
-})
+})  
