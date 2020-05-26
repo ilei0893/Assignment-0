@@ -1,5 +1,5 @@
 function productOfAnyAmountOfNumbers(...args) {
-  return args.reduce((prev,curr) => {
+  return args.reduce((prev,curr) => {       
       return prev * curr;
   });
 }
